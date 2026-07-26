@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CineArchivio</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>CineArchivio</h1>
+    <p>Catalogo film — caricato dal backup JSON</p>
+  </header>
+
+  <main>
+    <section class="controls">
+      <input id="search" type="search" placeholder="Cerca per titolo o regista..." />
+      <select id="filter-watched">
+        <option value="all">Tutti</option>
+        <option value="watched">Visti</option>
+        <option value="not-watched">Non visti</option>
+      </select>
+      <select id="sort">
+        <option value="title-asc">Titolo A→Z</option>
+        <option value="title-desc">Titolo Z→A</option>
+        <option value="director-asc">Regista A→Z</option>
+        <option value="director-desc">Regista Z→A</option>
+      </select>
+    </section>
+
+    <section id="summary" class="summary"></section>
+
+    <section id="list" class="list"></section>
+  </main>
+
+  <footer>
+    <p>Pagina statica generata per CineArchivio — JSON originale incluso.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
