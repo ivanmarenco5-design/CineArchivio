@@ -1,0 +1,3842 @@
+{
+  "1": {
+    "title": "The Addiction",
+    "director": "Abel Ferrara",
+    "watched": true,
+    "rating": 0
+  },
+  "2": {
+    "title": "King of New York",
+    "director": "Abel Ferrara",
+    "watched": true,
+    "rating": 0
+  },
+  "3": {
+    "title": "Kagemusha l'ombra del guerriero",
+    "director": "Akira Kurosawa",
+    "watched": true,
+    "rating": 0
+  },
+  "4": {
+    "title": "Ran",
+    "director": "Akira Kurosawa",
+    "watched": true,
+    "rating": 0
+  },
+  "5": {
+    "title": "Sanjuro",
+    "director": "Akira Kurosawa",
+    "watched": true,
+    "rating": 0
+  },
+  "6": {
+    "title": "Seven Samurai",
+    "director": "Akira Kurosawa",
+    "watched": true,
+    "rating": 0
+  },
+  "7": {
+    "title": "The hidden fortress",
+    "director": "Akira Kurosawa",
+    "watched": true,
+    "rating": 0
+  },
+  "8": {
+    "title": "Throne of Blood",
+    "director": "Akira Kurosawa",
+    "watched": true,
+    "rating": 0
+  },
+  "9": {
+    "title": "Yojimbo",
+    "director": "Akira Kurosawa",
+    "watched": true,
+    "rating": 0
+  },
+  "10": {
+    "title": "Hiroshima mon amour",
+    "director": "Alain Resnais",
+    "watched": true,
+    "rating": 0
+  },
+  "11": {
+    "title": "Pink Floyd The Wall",
+    "director": "Alan Parker",
+    "watched": true,
+    "rating": 0
+  },
+  "12": {
+    "title": "La vera storia di Jack lo squartatore",
+    "director": "Albert e Allen Hughes",
+    "watched": true,
+    "rating": 0
+  },
+  "13": {
+    "title": "Regression",
+    "director": "Alejandro Amenabar",
+    "watched": true,
+    "rating": 0
+  },
+  "14": {
+    "title": "Birdman",
+    "director": "Alejandro Inarritu",
+    "watched": true,
+    "rating": 0
+  },
+  "15": {
+    "title": "Revenant",
+    "director": "Alejandro Inarritu",
+    "watched": true,
+    "rating": 0
+  },
+  "16": {
+    "title": "Arca russa",
+    "director": "Aleksandr Sokurov",
+    "watched": true,
+    "rating": 0
+  },
+  "17": {
+    "title": "Ex machina",
+    "director": "Alex Garland",
+    "watched": true,
+    "rating": 0
+  },
+  "18": {
+    "title": "Harry Potter e il prigioniero di Azkaban",
+    "director": "Alfonso Cuaron",
+    "watched": true,
+    "rating": 0
+  },
+  "19": {
+    "title": "I figli degli uomini",
+    "director": "Alfonso Cuaron",
+    "watched": true,
+    "rating": 0
+  },
+  "20": {
+    "title": "Gravity",
+    "director": "Alfonso Cuaron",
+    "watched": true,
+    "rating": 0
+  },
+  "21": {
+    "title": "La donna che visse due volte",
+    "director": "Alfred Hitchcock",
+    "watched": true,
+    "rating": 0
+  },
+  "22": {
+    "title": "La finestra sul cortile",
+    "director": "Alfred Hitchcock",
+    "watched": true,
+    "rating": 0
+  },
+  "23": {
+    "title": "Nodo alla gola",
+    "director": "Alfred Hitchcock",
+    "watched": true,
+    "rating": 0
+  },
+  "24": {
+    "title": "Psyco",
+    "director": "Alfred Hitchcock",
+    "watched": true,
+    "rating": 0
+  },
+  "25": {
+    "title": "Le paludi della morte",
+    "director": "Ami Canaan Mann",
+    "watched": true,
+    "rating": 0
+  },
+  "26": {
+    "title": "Nostalghia",
+    "director": "Andrei Tarkovskij",
+    "watched": true,
+    "rating": 0
+  },
+  "27": {
+    "title": "The Sacrifice",
+    "director": "Andrei Tarkovskij",
+    "watched": true,
+    "rating": 0
+  },
+  "28": {
+    "title": "L'infanzia di Ivan",
+    "director": "Andrei Tarkovskij",
+    "watched": true,
+    "rating": 0
+  },
+  "29": {
+    "title": "Mirror",
+    "director": "Andrei Tarkovskij",
+    "watched": true,
+    "rating": 0
+  },
+  "30": {
+    "title": "Solaris",
+    "director": "Andrei Tarkovskij",
+    "watched": true,
+    "rating": 0
+  },
+  "31": {
+    "title": "Stalker",
+    "director": "Andrei Tarkovskij",
+    "watched": true,
+    "rating": 0
+  },
+  "32": {
+    "title": "Gattaca",
+    "director": "Andrew Niccol",
+    "watched": true,
+    "rating": 0
+  },
+  "33": {
+    "title": "La tigre e il dragone",
+    "director": "Ang Lee",
+    "watched": true,
+    "rating": 0
+  },
+  "34": {
+    "title": "Lussuria seduzione e tradimento",
+    "director": "Ang Lee",
+    "watched": true,
+    "rating": 0
+  },
+  "35": {
+    "title": "Brokeback Mountain",
+    "director": "Ang Lee",
+    "watched": true,
+    "rating": 0
+  },
+  "36": {
+    "title": "Control",
+    "director": "Anton Corbijn",
+    "watched": true,
+    "rating": 0
+  },
+  "37": {
+    "title": "Come true",
+    "director": "Antony Scott Burns",
+    "watched": true,
+    "rating": 0
+  },
+  "38": {
+    "title": "Midsommar",
+    "director": "Ari Aster",
+    "watched": true,
+    "rating": 0
+  },
+  "39": {
+    "title": "Il fantasma dell'opera",
+    "director": "Arthur Lubin",
+    "watched": true,
+    "rating": 0
+  },
+  "40": {
+    "title": "Il piccolo grande uomo",
+    "director": "Arthur Penn",
+    "watched": true,
+    "rating": 0
+  },
+  "41": {
+    "title": "Emma",
+    "director": "Autumn de Wilde",
+    "watched": true,
+    "rating": 0
+  },
+  "42": {
+    "title": "High-rise",
+    "director": "Ben Wheatley",
+    "watched": true,
+    "rating": 0
+  },
+  "43": {
+    "title": "Kill list",
+    "director": "Ben Wheatley",
+    "watched": true,
+    "rating": 0
+  },
+  "44": {
+    "title": "Il conformista",
+    "director": "Bernardo Bertolucci",
+    "watched": true,
+    "rating": 0
+  },
+  "45": {
+    "title": "Long Day's Journey Into Night",
+    "director": "Bi Gan",
+    "watched": true,
+    "rating": 0
+  },
+  "46": {
+    "title": "Long Day's Journey Into Night",
+    "director": "Bi Gan",
+    "watched": true,
+    "rating": 0
+  },
+  "47": {
+    "title": "La pantera rosa",
+    "director": "Blake Edwards",
+    "watched": true,
+    "rating": 0
+  },
+  "48": {
+    "title": "La pantera rosa sfida l'ispettore Clouseau",
+    "director": "Blake Edwards",
+    "watched": true,
+    "rating": 0
+  },
+  "49": {
+    "title": "La vendetta della pantera rosa",
+    "director": "Blake Edwards",
+    "watched": true,
+    "rating": 0
+  },
+  "50": {
+    "title": "Sulle orme della pantera rosa",
+    "director": "Blake Edwards",
+    "watched": true,
+    "rating": 0
+  },
+  "51": {
+    "title": "Uno sparo nel buio",
+    "director": "Blake Edwards",
+    "watched": true,
+    "rating": 0
+  },
+  "52": {
+    "title": "Moonage daydream",
+    "director": "Brett Morgen",
+    "watched": true,
+    "rating": 0
+  },
+  "53": {
+    "title": "Omicidio in diretta",
+    "director": "Brian De Palma",
+    "watched": true,
+    "rating": 0
+  },
+  "54": {
+    "title": "Carlito's Way",
+    "director": "Brian De Palma",
+    "watched": true,
+    "rating": 0
+  },
+  "55": {
+    "title": "Beyond reanimator",
+    "director": "Brian Yuzna",
+    "watched": true,
+    "rating": 0
+  },
+  "56": {
+    "title": "Faust",
+    "director": "Brian Yuzna",
+    "watched": true,
+    "rating": 0
+  },
+  "57": {
+    "title": "I soliti sospetti",
+    "director": "Bryan Singer",
+    "watched": true,
+    "rating": 0
+  },
+  "58": {
+    "title": "Vampyr",
+    "director": "Carl Theodor Dreyer",
+    "watched": true,
+    "rating": 0
+  },
+  "59": {
+    "title": "Il terzo uomo",
+    "director": "Carol Reed",
+    "watched": true,
+    "rating": 0
+  },
+  "60": {
+    "title": "Decision to leave",
+    "director": "Park Chan-wook",
+    "watched": true,
+    "rating": 0
+  },
+  "61": {
+    "title": "Joint security area",
+    "director": "Park Chan-wook",
+    "watched": true,
+    "rating": 0
+  },
+  "62": {
+    "title": "Lady Vendetta",
+    "director": "Park Chan-wook",
+    "watched": true,
+    "rating": 0
+  },
+  "63": {
+    "title": "Mr. Vendetta",
+    "director": "Park Chan-wook",
+    "watched": true,
+    "rating": 0
+  },
+  "64": {
+    "title": "Oldboy",
+    "director": "Park Chan-wook",
+    "watched": true,
+    "rating": 0
+  },
+  "65": {
+    "title": "The handmaiden",
+    "director": "Park Chan-wook",
+    "watched": true,
+    "rating": 0
+  },
+  "66": {
+    "title": "Thirst",
+    "director": "Park Chan-wook",
+    "watched": true,
+    "rating": 0
+  },
+  "67": {
+    "title": "Peppermint candy",
+    "director": "Lee Chang-dong",
+    "watched": true,
+    "rating": 0
+  },
+  "68": {
+    "title": "Un pesce di nome Wanda",
+    "director": "Charles Crichton",
+    "watched": true,
+    "rating": 0
+  },
+  "69": {
+    "title": "Luci della ribalta",
+    "director": "Charlie Chaplin",
+    "watched": true,
+    "rating": 0
+  },
+  "70": {
+    "title": "Harry Potter e la camera dei segreti",
+    "director": "Chris Columbus",
+    "watched": true,
+    "rating": 0
+  },
+  "71": {
+    "title": "Harry Potter e la pietra filosofale",
+    "director": "Chris Columbus",
+    "watched": true,
+    "rating": 0
+  },
+  "72": {
+    "title": "La Jetee",
+    "director": "Chris Marker",
+    "watched": true,
+    "rating": 0
+  },
+  "73": {
+    "title": "Sans Soleil",
+    "director": "Chris Marker",
+    "watched": true,
+    "rating": 0
+  },
+  "74": {
+    "title": "Silent hill",
+    "director": "Christophe Gans",
+    "watched": true,
+    "rating": 0
+  },
+  "75": {
+    "title": "Batman begins",
+    "director": "Christopher Nolan",
+    "watched": true,
+    "rating": 0
+  },
+  "76": {
+    "title": "Dunkirk",
+    "director": "Christopher Nolan",
+    "watched": true,
+    "rating": 0
+  },
+  "77": {
+    "title": "Following",
+    "director": "Christopher Nolan",
+    "watched": true,
+    "rating": 0
+  },
+  "78": {
+    "title": "Il cavaliere oscuro",
+    "director": "Christopher Nolan",
+    "watched": true,
+    "rating": 0
+  },
+  "79": {
+    "title": "Il cavaliere oscuro il ritorno",
+    "director": "Christopher Nolan",
+    "watched": true,
+    "rating": 0
+  },
+  "80": {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "watched": true,
+    "rating": 0
+  },
+  "81": {
+    "title": "Memento",
+    "director": "Christopher Nolan",
+    "watched": true,
+    "rating": 0
+  },
+  "82": {
+    "title": "Oppenheimer",
+    "director": "Christopher Nolan",
+    "watched": true,
+    "rating": 0
+  },
+  "83": {
+    "title": "The prestige",
+    "director": "Christopher Nolan",
+    "watched": true,
+    "rating": 0
+  },
+  "84": {
+    "title": "Nightmare 3 i guerrieri del sogno",
+    "director": "Chuck Russell",
+    "watched": true,
+    "rating": 0
+  },
+  "85": {
+    "title": "I fiori del male",
+    "director": "Claude Chabrol",
+    "watched": true,
+    "rating": 0
+  },
+  "86": {
+    "title": "Amore tossico",
+    "director": "Claudio Caligari",
+    "watched": true,
+    "rating": 0
+  },
+  "87": {
+    "title": "L'odore della notte",
+    "director": "Claudio Caligari",
+    "watched": true,
+    "rating": 0
+  },
+  "88": {
+    "title": "Non essere cattivo",
+    "director": "Claudio Caligari",
+    "watched": true,
+    "rating": 0
+  },
+  "89": {
+    "title": "Gli Spietati",
+    "director": "Clint Eastwood",
+    "watched": true,
+    "rating": 0
+  },
+  "90": {
+    "title": "Mystic River",
+    "director": "Clint Eastwood",
+    "watched": true,
+    "rating": 0
+  },
+  "91": {
+    "title": "Hellraiser",
+    "director": "Clive Barker",
+    "watched": true,
+    "rating": 0
+  },
+  "92": {
+    "title": "Holidays",
+    "director": "Collettivo (Anthony Scott Burns - Kevin Kölsch - Nicholas McCarthy - Adam Egypt Mortimer - Gary Shore - Kevin Smith - Sarah Adina Smith - Scott Stewart - Dennis Widmyer)",
+    "watched": true,
+    "rating": 0
+  },
+  "93": {
+    "title": "Tales of Halloween",
+    "director": "Collettivo (Jace Anderson - Darren Lynn Bousman - Axelle Carolyn - Adam Gierasch - Jack Dylan Grazer - Andrew Kasch - Neil Marshall - Lucky McKee - Mike Mendez - Ryan Schifrin - John Skipp - Paul Solet)",
+    "watched": true,
+    "rating": 0
+  },
+  "94": {
+    "title": "28 giorni dopo",
+    "director": "Danny Boyle",
+    "watched": true,
+    "rating": 0
+  },
+  "95": {
+    "title": "Sunshine",
+    "director": "Danny Boyle",
+    "watched": true,
+    "rating": 0
+  },
+  "96": {
+    "title": "4 mosche di velluto grigio",
+    "director": "Dario Argento",
+    "watched": true,
+    "rating": 0
+  },
+  "97": {
+    "title": "Inferno",
+    "director": "Dario Argento",
+    "watched": true,
+    "rating": 0
+  },
+  "98": {
+    "title": "Opera",
+    "director": "Dario Argento",
+    "watched": true,
+    "rating": 0
+  },
+  "99": {
+    "title": "Phenomena",
+    "director": "Dario Argento",
+    "watched": true,
+    "rating": 0
+  },
+  "100": {
+    "title": "Profondo rosso",
+    "director": "Dario Argento",
+    "watched": true,
+    "rating": 0
+  },
+  "101": {
+    "title": "Suspiria",
+    "director": "Dario Argento",
+    "watched": true,
+    "rating": 0
+  },
+  "102": {
+    "title": "Two evil eyes",
+    "director": "Dario Argento e George A. Romero",
+    "watched": true,
+    "rating": 0
+  },
+  "103": {
+    "title": "Pigreco Il teorema del delirio",
+    "director": "Darren Aronofsky",
+    "watched": true,
+    "rating": 0
+  },
+  "104": {
+    "title": "A dangerous method",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "105": {
+    "title": "Cosmopolis",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "106": {
+    "title": "Crimes of the future",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "107": {
+    "title": "Crimes of the future",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "108": {
+    "title": "Existenz",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "109": {
+    "title": "From the drain",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "110": {
+    "title": "Il demone sotto la pelle",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "111": {
+    "title": "Il pasto nudo",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "112": {
+    "title": "Inseparabili",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "113": {
+    "title": "La mosca",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "114": {
+    "title": "La Promessa dell'assassino",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "115": {
+    "title": "Maps to the stars",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "116": {
+    "title": "Spider",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "117": {
+    "title": "Stereo",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "118": {
+    "title": "Transfer",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "119": {
+    "title": "Videodrome",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "120": {
+    "title": "A history of violence",
+    "director": "David Cronenberg",
+    "watched": true,
+    "rating": 0
+  },
+  "121": {
+    "title": "Gone girl",
+    "director": "David Fincher",
+    "watched": true,
+    "rating": 0
+  },
+  "122": {
+    "title": "Millennium uomini che odiano le donne",
+    "director": "David Fincher",
+    "watched": true,
+    "rating": 0
+  },
+  "123": {
+    "title": "Seven",
+    "director": "David Fincher",
+    "watched": true,
+    "rating": 0
+  },
+  "124": {
+    "title": "Zodiac",
+    "director": "David Fincher",
+    "watched": true,
+    "rating": 0
+  },
+  "125": {
+    "title": "Sir Gawain e il cavaliere verde",
+    "director": "David Lowery",
+    "watched": true,
+    "rating": 0
+  },
+  "126": {
+    "title": "The elephant man",
+    "director": "David Lynch",
+    "watched": true,
+    "rating": 0
+  },
+  "127": {
+    "title": "Fuoco cammina con me",
+    "director": "David Lynch",
+    "watched": true,
+    "rating": 0
+  },
+  "128": {
+    "title": "Mulholland Drive",
+    "director": "David Lynch",
+    "watched": true,
+    "rating": 0
+  },
+  "129": {
+    "title": "Strade perdute",
+    "director": "David Lynch",
+    "watched": true,
+    "rating": 0
+  },
+  "130": {
+    "title": "Pitch Black",
+    "director": "David Twohy",
+    "watched": true,
+    "rating": 0
+  },
+  "131": {
+    "title": "Harry Potter e i doni della morte parte 1",
+    "director": "David Yates",
+    "watched": true,
+    "rating": 0
+  },
+  "132": {
+    "title": "Harry Potter e i doni della morte parte 2",
+    "director": "David Yates",
+    "watched": true,
+    "rating": 0
+  },
+  "133": {
+    "title": "Harry Potter e il principe mezzo sangue",
+    "director": "David Yates",
+    "watched": true,
+    "rating": 0
+  },
+  "134": {
+    "title": "Harry Potter e l'ordine della fenice",
+    "director": "David Yates",
+    "watched": true,
+    "rating": 0
+  },
+  "135": {
+    "title": "Blade runner 2049",
+    "director": "Denis Villeneuve",
+    "watched": true,
+    "rating": 0
+  },
+  "136": {
+    "title": "Dune",
+    "director": "Denis Villeneuve",
+    "watched": true,
+    "rating": 0
+  },
+  "137": {
+    "title": "Dune parte due",
+    "director": "Denis Villeneuve",
+    "watched": true,
+    "rating": 0
+  },
+  "138": {
+    "title": "Enemy",
+    "director": "Denis Villeneuve",
+    "watched": true,
+    "rating": 0
+  },
+  "139": {
+    "title": "Polytechnique",
+    "director": "Denis Villeneuve",
+    "watched": true,
+    "rating": 0
+  },
+  "140": {
+    "title": "Prisoners",
+    "director": "Denis Villeneuve",
+    "watched": true,
+    "rating": 0
+  },
+  "141": {
+    "title": "Brisby e il segreto di NIMH",
+    "director": "Don Bluth",
+    "watched": true,
+    "rating": 0
+  },
+  "142": {
+    "title": "L'invasione degli ultracorpi",
+    "director": "Don Siegel",
+    "watched": true,
+    "rating": 0
+  },
+  "143": {
+    "title": "Loving Vincent",
+    "director": "Dorota Kobiela e Hugh Welchman",
+    "watched": true,
+    "rating": 0
+  },
+  "144": {
+    "title": "Moon",
+    "director": "Duncan Jones",
+    "watched": true,
+    "rating": 0
+  },
+  "145": {
+    "title": "Warcraft",
+    "director": "Duncan Jones",
+    "watched": true,
+    "rating": 0
+  },
+  "146": {
+    "title": "Hot fuzz",
+    "director": "Edgar Wright",
+    "watched": true,
+    "rating": 0
+  },
+  "147": {
+    "title": "La fine del mondo",
+    "director": "Edgar Wright",
+    "watched": true,
+    "rating": 0
+  },
+  "148": {
+    "title": "Ultima notte a Soho",
+    "director": "Edgar Wright",
+    "watched": true,
+    "rating": 0
+  },
+  "149": {
+    "title": "Green inferno",
+    "director": "Eli Roth",
+    "watched": true,
+    "rating": 0
+  },
+  "150": {
+    "title": "Indagine su un cittadino al di sopra di ogni sospetto",
+    "director": "Elio Petri",
+    "watched": true,
+    "rating": 0
+  },
+  "151": {
+    "title": "La decima vittima",
+    "director": "Elio Petri",
+    "watched": true,
+    "rating": 0
+  },
+  "152": {
+    "title": "Todo Modo",
+    "director": "Elio Petri",
+    "watched": true,
+    "rating": 0
+  },
+  "153": {
+    "title": "Un tranquillo posto di campagna",
+    "director": "Elio Petri",
+    "watched": true,
+    "rating": 0
+  },
+  "154": {
+    "title": "Underground",
+    "director": "Emir Kusturica",
+    "watched": true,
+    "rating": 0
+  },
+  "155": {
+    "title": "Immortal ad vitam",
+    "director": "Enki Bilal",
+    "watched": true,
+    "rating": 0
+  },
+  "156": {
+    "title": "Il bel matrimonio",
+    "director": "Éric Rohmer",
+    "watched": true,
+    "rating": 0
+  },
+  "157": {
+    "title": "Il raggio verde",
+    "director": "Éric Rohmer",
+    "watched": true,
+    "rating": 0
+  },
+  "158": {
+    "title": "Incontri a Parigi",
+    "director": "Éric Rohmer",
+    "watched": true,
+    "rating": 0
+  },
+  "159": {
+    "title": "L'amico della mia amica",
+    "director": "Éric Rohmer",
+    "watched": true,
+    "rating": 0
+  },
+  "160": {
+    "title": "La Marchesa Von…",
+    "director": "Éric Rohmer",
+    "watched": true,
+    "rating": 0
+  },
+  "161": {
+    "title": "La moglie dell'aviatore",
+    "director": "Éric Rohmer",
+    "watched": true,
+    "rating": 0
+  },
+  "162": {
+    "title": "Le notti della luna piena",
+    "director": "Éric Rohmer",
+    "watched": true,
+    "rating": 0
+  },
+  "163": {
+    "title": "Pauline alla spiaggia",
+    "director": "Éric Rohmer",
+    "watched": true,
+    "rating": 0
+  },
+  "164": {
+    "title": "Racconto d'autunno",
+    "director": "Éric Rohmer",
+    "watched": true,
+    "rating": 0
+  },
+  "165": {
+    "title": "Racconto d'estate",
+    "director": "Éric Rohmer",
+    "watched": true,
+    "rating": 0
+  },
+  "166": {
+    "title": "Racconto d'inverno",
+    "director": "Éric Rohmer",
+    "watched": true,
+    "rating": 0
+  },
+  "167": {
+    "title": "Racconto di primavera",
+    "director": "Éric Rohmer",
+    "watched": true,
+    "rating": 0
+  },
+  "168": {
+    "title": "C'eravamo tanto amati",
+    "director": "Ettore Scola",
+    "watched": true,
+    "rating": 0
+  },
+  "169": {
+    "title": "Evil dead",
+    "director": "Fede Álvarez",
+    "watched": true,
+    "rating": 0
+  },
+  "170": {
+    "title": "Man in the dark",
+    "director": "Fede Álvarez",
+    "watched": true,
+    "rating": 0
+  },
+  "171": {
+    "title": "Milano calibro 9",
+    "director": "Fernando Di Leo",
+    "watched": true,
+    "rating": 0
+  },
+  "172": {
+    "title": "Apocalypse now",
+    "director": "Francis Ford Coppola",
+    "watched": true,
+    "rating": 0
+  },
+  "173": {
+    "title": "Bram stoker's Dracula",
+    "director": "Francis Ford Coppola",
+    "watched": true,
+    "rating": 0
+  },
+  "174": {
+    "title": "Twixt",
+    "director": "Francis Ford Coppola",
+    "watched": true,
+    "rating": 0
+  },
+  "175": {
+    "title": "Il pianeta azzurro",
+    "director": "Franco Piavoli",
+    "watched": true,
+    "rating": 0
+  },
+  "176": {
+    "title": "Nostos il ritorno",
+    "director": "Franco Piavoli",
+    "watched": true,
+    "rating": 0
+  },
+  "177": {
+    "title": "Le ali della libertà",
+    "director": "Frank Darabont",
+    "watched": true,
+    "rating": 0
+  },
+  "178": {
+    "title": "The Score",
+    "director": "Frank Oz",
+    "watched": true,
+    "rating": 0
+  },
+  "179": {
+    "title": "Jodorowsky's Dune",
+    "director": "Frank Pavich",
+    "watched": true,
+    "rating": 0
+  },
+  "180": {
+    "title": "Nosferatu",
+    "director": "Friedrich Wilhelm Murnau",
+    "watched": true,
+    "rating": 0
+  },
+  "181": {
+    "title": "Metropolis",
+    "director": "Fritz Lang",
+    "watched": true,
+    "rating": 0
+  },
+  "182": {
+    "title": "Nirvana",
+    "director": "Gabriele Salvatores",
+    "watched": true,
+    "rating": 0
+  },
+  "183": {
+    "title": "Nirvana",
+    "director": "Gabriele Salvatores",
+    "watched": true,
+    "rating": 0
+  },
+  "184": {
+    "title": "Godzilla",
+    "director": "Gareth Edwards",
+    "watched": true,
+    "rating": 0
+  },
+  "185": {
+    "title": "Confessioni di una mente pericolosa",
+    "director": "George Clooney",
+    "watched": true,
+    "rating": 0
+  },
+  "186": {
+    "title": "Star Wars a new hope (despecialized)",
+    "director": "George Lucas",
+    "watched": true,
+    "rating": 0
+  },
+  "187": {
+    "title": "Interceptor",
+    "director": "George Miller",
+    "watched": true,
+    "rating": 0
+  },
+  "188": {
+    "title": "Interceptor 2",
+    "director": "George Miller",
+    "watched": true,
+    "rating": 0
+  },
+  "189": {
+    "title": "Mad Max fury road",
+    "director": "George Miller",
+    "watched": true,
+    "rating": 0
+  },
+  "190": {
+    "title": "Mad Max oltre la sfera del tuono",
+    "director": "George Miller",
+    "watched": true,
+    "rating": 0
+  },
+  "191": {
+    "title": "Tremila anni di attesa",
+    "director": "George Miller",
+    "watched": true,
+    "rating": 0
+  },
+  "192": {
+    "title": "Day of the dead",
+    "director": "George A. Romero",
+    "watched": true,
+    "rating": 0
+  },
+  "193": {
+    "title": "Diary of the dead",
+    "director": "George A. Romero",
+    "watched": true,
+    "rating": 0
+  },
+  "194": {
+    "title": "La metà oscura",
+    "director": "George A. Romero",
+    "watched": true,
+    "rating": 0
+  },
+  "195": {
+    "title": "La notte dei morti viventi",
+    "director": "George A. Romero",
+    "watched": true,
+    "rating": 0
+  },
+  "196": {
+    "title": "La terra dei morti viventi",
+    "director": "George A. Romero",
+    "watched": true,
+    "rating": 0
+  },
+  "197": {
+    "title": "Monkey shines",
+    "director": "George A. Romero",
+    "watched": true,
+    "rating": 0
+  },
+  "198": {
+    "title": "Survival of the dead",
+    "director": "George A. Romero",
+    "watched": true,
+    "rating": 0
+  },
+  "199": {
+    "title": "Zombi",
+    "director": "George A. Romero",
+    "watched": true,
+    "rating": 0
+  },
+  "200": {
+    "title": "L'uomo lupo",
+    "director": "George Waggner",
+    "watched": true,
+    "rating": 0
+  },
+  "201": {
+    "title": "Eyes without a face",
+    "director": "Georges Franju",
+    "watched": true,
+    "rating": 0
+  },
+  "202": {
+    "title": "Flow",
+    "director": "Gints Zilbalodis",
+    "watched": true,
+    "rating": 0
+  },
+  "203": {
+    "title": "Una pura formalità",
+    "director": "Giuseppe Tornatore",
+    "watched": true,
+    "rating": 0
+  },
+  "204": {
+    "title": "La leggenda del pianista sull'oceano",
+    "director": "Giuseppe Tornatore",
+    "watched": true,
+    "rating": 0
+  },
+  "205": {
+    "title": "La cura dal benessere",
+    "director": "Gore Verbinski",
+    "watched": true,
+    "rating": 0
+  },
+  "206": {
+    "title": "La maledizione della prima luna",
+    "director": "Gore Verbinski",
+    "watched": true,
+    "rating": 0
+  },
+  "207": {
+    "title": "I racconti di terramare",
+    "director": "Goro Miyazaki",
+    "watched": true,
+    "rating": 0
+  },
+  "208": {
+    "title": "La collina dei papaveri",
+    "director": "Goro Miyazaki",
+    "watched": true,
+    "rating": 0
+  },
+  "209": {
+    "title": "Cronos",
+    "director": "Guillermo del Toro",
+    "watched": true,
+    "rating": 0
+  },
+  "210": {
+    "title": "Il labirinto del fauno",
+    "director": "Guillermo del Toro",
+    "watched": true,
+    "rating": 0
+  },
+  "211": {
+    "title": "La spina del diavolo",
+    "director": "Guillermo del Toro",
+    "watched": true,
+    "rating": 0
+  },
+  "212": {
+    "title": "Blade II",
+    "director": "Guillermo del Toro",
+    "watched": true,
+    "rating": 0
+  },
+  "213": {
+    "title": "Crimson peak",
+    "director": "Guillermo del Toro",
+    "watched": true,
+    "rating": 0
+  },
+  "214": {
+    "title": "Hellboy",
+    "director": "Guillermo del Toro",
+    "watched": true,
+    "rating": 0
+  },
+  "215": {
+    "title": "Hellboy the golden army",
+    "director": "Guillermo del Toro",
+    "watched": true,
+    "rating": 0
+  },
+  "216": {
+    "title": "La fiera delle illusioni",
+    "director": "Guillermo del Toro",
+    "watched": true,
+    "rating": 0
+  },
+  "217": {
+    "title": "La forma dell'acqua",
+    "director": "Guillermo del Toro",
+    "watched": true,
+    "rating": 0
+  },
+  "218": {
+    "title": "Mimic",
+    "director": "Guillermo del Toro",
+    "watched": true,
+    "rating": 0
+  },
+  "219": {
+    "title": "Pacific rim",
+    "director": "Guillermo del Toro",
+    "watched": true,
+    "rating": 0
+  },
+  "220": {
+    "title": "Elephant",
+    "director": "Gus Van Sant",
+    "watched": true,
+    "rating": 0
+  },
+  "221": {
+    "title": "La casa muta",
+    "director": "Gustavo Hernández",
+    "watched": true,
+    "rating": 0
+  },
+  "222": {
+    "title": "Detective dee e il mistero della fiamma fantasma",
+    "director": "Tsui Hark",
+    "watched": true,
+    "rating": 0
+  },
+  "223": {
+    "title": "Young detective Dee",
+    "director": "Tsui Hark",
+    "watched": true,
+    "rating": 0
+  },
+  "224": {
+    "title": "Il castello errante di howl",
+    "director": "Hayao Miyazaki",
+    "watched": true,
+    "rating": 0
+  },
+  "225": {
+    "title": "Il castello nel cielo",
+    "director": "Hayao Miyazaki",
+    "watched": true,
+    "rating": 0
+  },
+  "226": {
+    "title": "Il mio vicino totoro",
+    "director": "Hayao Miyazaki",
+    "watched": true,
+    "rating": 0
+  },
+  "227": {
+    "title": "Il ragazzo e l'airone",
+    "director": "Hayao Miyazaki",
+    "watched": true,
+    "rating": 0
+  },
+  "228": {
+    "title": "Kiki consegne a domicilio",
+    "director": "Hayao Miyazaki",
+    "watched": true,
+    "rating": 0
+  },
+  "229": {
+    "title": "La città incantata",
+    "director": "Hayao Miyazaki",
+    "watched": true,
+    "rating": 0
+  },
+  "230": {
+    "title": "Lupin III Il castello di Cagliostro",
+    "director": "Hayao Miyazaki",
+    "watched": true,
+    "rating": 0
+  },
+  "231": {
+    "title": "Nausicaä della valle del vento",
+    "director": "Hayao Miyazaki",
+    "watched": true,
+    "rating": 0
+  },
+  "232": {
+    "title": "Ponyo sulla scogliera",
+    "director": "Hayao Miyazaki",
+    "watched": true,
+    "rating": 0
+  },
+  "233": {
+    "title": "Porco rosso",
+    "director": "Hayao Miyazaki",
+    "watched": true,
+    "rating": 0
+  },
+  "234": {
+    "title": "Principessa mononoke",
+    "director": "Hayao Miyazaki",
+    "watched": true,
+    "rating": 0
+  },
+  "235": {
+    "title": "Si alza il vento",
+    "director": "Hayao Miyazaki",
+    "watched": true,
+    "rating": 0
+  },
+  "236": {
+    "title": "Amer",
+    "director": "Hélène Cattet e Bruno Forzani",
+    "watched": true,
+    "rating": 0
+  },
+  "237": {
+    "title": "Lacrime di sangue",
+    "director": "Hélène Cattet e Bruno Forzani",
+    "watched": true,
+    "rating": 0
+  },
+  "238": {
+    "title": "Viral",
+    "director": "Henry Joost e Ariel Schulman",
+    "watched": true,
+    "rating": 0
+  },
+  "239": {
+    "title": "Nightmare before christmas",
+    "director": "Henry Selick",
+    "watched": true,
+    "rating": 0
+  },
+  "240": {
+    "title": "Shin Godzilla",
+    "director": "Hideaki Anno",
+    "watched": true,
+    "rating": 0
+  },
+  "241": {
+    "title": "Ringu",
+    "director": "Hideo Nakata",
+    "watched": true,
+    "rating": 0
+  },
+  "242": {
+    "title": "Ringu 2",
+    "director": "Hideo Nakata",
+    "watched": true,
+    "rating": 0
+  },
+  "243": {
+    "title": "Dark Water",
+    "director": "Hideo Nakata",
+    "watched": true,
+    "rating": 0
+  },
+  "244": {
+    "title": "After life",
+    "director": "Hirokazu Kore-eda",
+    "watched": true,
+    "rating": 0
+  },
+  "245": {
+    "title": "Maborosi",
+    "director": "Hirokazu Kore-eda",
+    "watched": true,
+    "rating": 0
+  },
+  "246": {
+    "title": "Nobody knows",
+    "director": "Hirokazu Kore-eda",
+    "watched": true,
+    "rating": 0
+  },
+  "247": {
+    "title": "Still walking",
+    "director": "Hirokazu Kore-eda",
+    "watched": true,
+    "rating": 0
+  },
+  "248": {
+    "title": "Un affare di famiglia",
+    "director": "Hirokazu Kore-eda",
+    "watched": true,
+    "rating": 0
+  },
+  "249": {
+    "title": "Father and Son",
+    "director": "Hirokazu Kore-eda",
+    "watched": true,
+    "rating": 0
+  },
+  "250": {
+    "title": "Arrietty il mondo segreto sotto il pavimento",
+    "director": "Hiromasa Yonebayashi",
+    "watched": true,
+    "rating": 0
+  },
+  "251": {
+    "title": "Quando c'era Marnie",
+    "director": "Hiromasa Yonebayashi",
+    "watched": true,
+    "rating": 0
+  },
+  "252": {
+    "title": "La ricompensa del gatto",
+    "director": "Hiroyuki Morita",
+    "watched": true,
+    "rating": 0
+  },
+  "253": {
+    "title": "Peninsula",
+    "director": "Hong Sang-soo",
+    "watched": true,
+    "rating": 0
+  },
+  "254": {
+    "title": "Goksung",
+    "director": "Na Hong-jin",
+    "watched": true,
+    "rating": 0
+  },
+  "255": {
+    "title": "Star Wars the empire strikes back (despecialized)",
+    "director": "Irvin Kershner",
+    "watched": true,
+    "rating": 0
+  },
+  "256": {
+    "title": "La tomba delle lucciole",
+    "director": "Isao Takahata",
+    "watched": true,
+    "rating": 0
+  },
+  "257": {
+    "title": "La storia della principessa splendente",
+    "director": "Isao Takahata",
+    "watched": true,
+    "rating": 0
+  },
+  "258": {
+    "title": "Il mostro della laguna nera",
+    "director": "Jack Arnold",
+    "watched": true,
+    "rating": 0
+  },
+  "259": {
+    "title": "Nightmare 2 la rivincita",
+    "director": "Jack Sholder",
+    "watched": true,
+    "rating": 0
+  },
+  "260": {
+    "title": "Playtime",
+    "director": "Jacques Tati",
+    "watched": true,
+    "rating": 0
+  },
+  "261": {
+    "title": "Abyss",
+    "director": "James Cameron",
+    "watched": true,
+    "rating": 0
+  },
+  "262": {
+    "title": "Avatar",
+    "director": "James Cameron",
+    "watched": true,
+    "rating": 0
+  },
+  "263": {
+    "title": "Avatar la via dell'acqua",
+    "director": "James Cameron",
+    "watched": true,
+    "rating": 0
+  },
+  "264": {
+    "title": "Terminator",
+    "director": "James Cameron",
+    "watched": true,
+    "rating": 0
+  },
+  "265": {
+    "title": "Terminator 2",
+    "director": "James Cameron",
+    "watched": true,
+    "rating": 0
+  },
+  "266": {
+    "title": "Ad Astra",
+    "director": "James Gray",
+    "watched": true,
+    "rating": 0
+  },
+  "267": {
+    "title": "I Guardiani della Galassia",
+    "director": "James Gunn",
+    "watched": true,
+    "rating": 0
+  },
+  "268": {
+    "title": "I Guardiani della Galassia 2",
+    "director": "James Gunn",
+    "watched": true,
+    "rating": 0
+  },
+  "269": {
+    "title": "Logan",
+    "director": "James Mangold",
+    "watched": true,
+    "rating": 0
+  },
+  "270": {
+    "title": "L'evocazione",
+    "director": "James Wan",
+    "watched": true,
+    "rating": 0
+  },
+  "271": {
+    "title": "Eden lake",
+    "director": "James Watkins",
+    "watched": true,
+    "rating": 0
+  },
+  "272": {
+    "title": "Frankenstein",
+    "director": "James Whale",
+    "watched": true,
+    "rating": 0
+  },
+  "273": {
+    "title": "L'uomo invisibile",
+    "director": "James Whale",
+    "watched": true,
+    "rating": 0
+  },
+  "274": {
+    "title": "La moglie di Frankenstein",
+    "director": "James Whale",
+    "watched": true,
+    "rating": 0
+  },
+  "275": {
+    "title": "Bed time",
+    "director": "Jaume Balagueró",
+    "watched": true,
+    "rating": 0
+  },
+  "276": {
+    "title": "Rec",
+    "director": "Jaume Balagueró",
+    "watched": true,
+    "rating": 0
+  },
+  "277": {
+    "title": "Delicatessen",
+    "director": "Jean-Pierre Jeunet",
+    "watched": true,
+    "rating": 0
+  },
+  "278": {
+    "title": "Tutte le ore feriscono…l'ultima uccide",
+    "director": "Jean-Pierre Melville",
+    "watched": true,
+    "rating": 0
+  },
+  "279": {
+    "title": "Babadook",
+    "director": "Jennifer Kent",
+    "watched": true,
+    "rating": 0
+  },
+  "280": {
+    "title": "Ghost stories",
+    "director": "Jeremy Dyson e Andy Nyman",
+    "watched": true,
+    "rating": 0
+  },
+  "281": {
+    "title": "I saw the devil",
+    "director": "Kim Jee-woon",
+    "watched": true,
+    "rating": 0
+  },
+  "282": {
+    "title": "Labyrinth",
+    "director": "Jim Henson",
+    "watched": true,
+    "rating": 0
+  },
+  "283": {
+    "title": "The dark crystal",
+    "director": "Jim Henson e Frank Oz",
+    "watched": true,
+    "rating": 0
+  },
+  "284": {
+    "title": "Ghost dog: il codice del samurai",
+    "director": "Jim Jarmusch",
+    "watched": true,
+    "rating": 0
+  },
+  "285": {
+    "title": "We are what we are",
+    "director": "Jim Mickle",
+    "watched": true,
+    "rating": 0
+  },
+  "286": {
+    "title": "Il mio piede sinistro",
+    "director": "Jim Sheridan",
+    "watched": true,
+    "rating": 0
+  },
+  "287": {
+    "title": "The grey",
+    "director": "Joe Carnahan",
+    "watched": true,
+    "rating": 0
+  },
+  "288": {
+    "title": "Gremlins",
+    "director": "Joe Dante",
+    "watched": true,
+    "rating": 0
+  },
+  "289": {
+    "title": "Il grande Lebowski",
+    "director": "Joel e Ethan Coen",
+    "watched": true,
+    "rating": 0
+  },
+  "290": {
+    "title": "O Brother where art thou?",
+    "director": "Joel e Ethan Coen",
+    "watched": true,
+    "rating": 0
+  },
+  "291": {
+    "title": "Predator",
+    "director": "John McTiernan",
+    "watched": true,
+    "rating": 0
+  },
+  "292": {
+    "title": "Excalibur",
+    "director": "John Boorman",
+    "watched": true,
+    "rating": 0
+  },
+  "293": {
+    "title": "1997 fuga da new york",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "294": {
+    "title": "Christine",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "295": {
+    "title": "Distretto 13",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "296": {
+    "title": "Essi vivono",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "297": {
+    "title": "Fantasmi da marte",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "298": {
+    "title": "Fuga da Los Angeles",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "299": {
+    "title": "Grosso guaio a chinatown",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "300": {
+    "title": "Halloween",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "301": {
+    "title": "Il seme della follia",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "302": {
+    "title": "Il signore del male",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "303": {
+    "title": "Starman",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "304": {
+    "title": "The fog",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "305": {
+    "title": "The thing",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "306": {
+    "title": "The ward",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "307": {
+    "title": "Vampires",
+    "director": "John Carpenter",
+    "watched": true,
+    "rating": 0
+  },
+  "308": {
+    "title": "Il maratoneta",
+    "director": "John Schlesinger",
+    "watched": true,
+    "rating": 0
+  },
+  "309": {
+    "title": "Red Cliff",
+    "director": "John Woo",
+    "watched": true,
+    "rating": 0
+  },
+  "310": {
+    "title": "Mission impossible 2",
+    "director": "John Woo",
+    "watched": true,
+    "rating": 0
+  },
+  "311": {
+    "title": "Silent night",
+    "director": "John Woo",
+    "watched": true,
+    "rating": 0
+  },
+  "312": {
+    "title": "Paycheck",
+    "director": "John Woo",
+    "watched": true,
+    "rating": 0
+  },
+  "313": {
+    "title": "Il silenzio degli innocenti",
+    "director": "Jonathan Demme",
+    "watched": true,
+    "rating": 0
+  },
+  "314": {
+    "title": "Stop making sense",
+    "director": "Jonathan Demme",
+    "watched": true,
+    "rating": 0
+  },
+  "315": {
+    "title": "Vendicami",
+    "director": "Johnnie To",
+    "watched": true,
+    "rating": 0
+  },
+  "316": {
+    "title": "Memories of murder",
+    "director": "Bong Joon-ho",
+    "watched": true,
+    "rating": 0
+  },
+  "317": {
+    "title": "Parasite",
+    "director": "Bong Joon-ho",
+    "watched": true,
+    "rating": 0
+  },
+  "318": {
+    "title": "The host",
+    "director": "Bong Joon-ho",
+    "watched": true,
+    "rating": 0
+  },
+  "319": {
+    "title": "Snowpiercer",
+    "director": "Bong Joon-ho",
+    "watched": true,
+    "rating": 0
+  },
+  "320": {
+    "title": "Nope",
+    "director": "Jordan Peele",
+    "watched": true,
+    "rating": 0
+  },
+  "321": {
+    "title": "The orphanage",
+    "director": "J. A. Bayona",
+    "watched": true,
+    "rating": 0
+  },
+  "322": {
+    "title": "Sette minuti dopo la mezzanotte",
+    "director": "J. A. Bayona",
+    "watched": true,
+    "rating": 0
+  },
+  "323": {
+    "title": "Titane",
+    "director": "Julia Ducournau",
+    "watched": true,
+    "rating": 0
+  },
+  "324": {
+    "title": "Titane",
+    "director": "Julia Ducournau",
+    "watched": true,
+    "rating": 0
+  },
+  "325": {
+    "title": "Anatomia di una caduta",
+    "director": "Justine Triet",
+    "watched": true,
+    "rating": 0
+  },
+  "326": {
+    "title": "Onibaba",
+    "director": "Kaneto Shindō",
+    "watched": true,
+    "rating": 0
+  },
+  "327": {
+    "title": "Angeli perduti",
+    "director": "Wong Kar-wai",
+    "watched": true,
+    "rating": 0
+  },
+  "328": {
+    "title": "As tears go by",
+    "director": "Wong Kar-wai",
+    "watched": true,
+    "rating": 0
+  },
+  "329": {
+    "title": "Days of being wild",
+    "director": "Wong Kar-wai",
+    "watched": true,
+    "rating": 0
+  },
+  "330": {
+    "title": "Happy together",
+    "director": "Wong Kar-wai",
+    "watched": true,
+    "rating": 0
+  },
+  "331": {
+    "title": "Hong Kong express",
+    "director": "Wong Kar-wai",
+    "watched": true,
+    "rating": 0
+  },
+  "332": {
+    "title": "In the mood for love",
+    "director": "Wong Kar-wai",
+    "watched": true,
+    "rating": 0
+  },
+  "333": {
+    "title": "La mummia",
+    "director": "Karl Freund",
+    "watched": true,
+    "rating": 0
+  },
+  "334": {
+    "title": "The taste of tea",
+    "director": "Katsuhito Ishii",
+    "watched": true,
+    "rating": 0
+  },
+  "335": {
+    "title": "Tommy",
+    "director": "Ken Russell",
+    "watched": true,
+    "rating": 0
+  },
+  "336": {
+    "title": "Belfast",
+    "director": "Kenneth Branagh",
+    "watched": true,
+    "rating": 0
+  },
+  "337": {
+    "title": "Enrico v",
+    "director": "Kenneth Branagh",
+    "watched": true,
+    "rating": 0
+  },
+  "338": {
+    "title": "Frankenstein di Mary Shelley",
+    "director": "Kenneth Branagh",
+    "watched": true,
+    "rating": 0
+  },
+  "339": {
+    "title": "Hamlet",
+    "director": "Kenneth Branagh",
+    "watched": true,
+    "rating": 0
+  },
+  "340": {
+    "title": "Molto rumore per nulla",
+    "director": "Kenneth Branagh",
+    "watched": true,
+    "rating": 0
+  },
+  "341": {
+    "title": "Thor",
+    "director": "Kenneth Branagh",
+    "watched": true,
+    "rating": 0
+  },
+  "342": {
+    "title": "Battle Royale II: Requiem/Revenge",
+    "director": "Kenta Fukasaku",
+    "watched": true,
+    "rating": 0
+  },
+  "343": {
+    "title": "Generazione X (Mallrats)",
+    "director": "Kevin Smith",
+    "watched": true,
+    "rating": 0
+  },
+  "344": {
+    "title": "Battle Royale",
+    "director": "Kinji Fukasaku",
+    "watched": true,
+    "rating": 0
+  },
+  "345": {
+    "title": "Shogun's samurai",
+    "director": "Kinji Fukasaku",
+    "watched": true,
+    "rating": 0
+  },
+  "346": {
+    "title": "La doppia vita di Veronica",
+    "director": "Krzysztof Kieślowski",
+    "watched": true,
+    "rating": 0
+  },
+  "347": {
+    "title": "Tre colori: Bianco",
+    "director": "Krzysztof Kieślowski",
+    "watched": true,
+    "rating": 0
+  },
+  "348": {
+    "title": "Tre colori: Blu",
+    "director": "Krzysztof Kieślowski",
+    "watched": true,
+    "rating": 0
+  },
+  "349": {
+    "title": "Tre colori: Rosso",
+    "director": "Krzysztof Kieślowski",
+    "watched": true,
+    "rating": 0
+  },
+  "350": {
+    "title": "Charisma",
+    "director": "Kiyoshi Kurosawa",
+    "watched": true,
+    "rating": 0
+  },
+  "351": {
+    "title": "Cloud",
+    "director": "Kiyoshi Kurosawa",
+    "watched": true,
+    "rating": 0
+  },
+  "352": {
+    "title": "Pulse",
+    "director": "Kiyoshi Kurosawa",
+    "watched": true,
+    "rating": 0
+  },
+  "353": {
+    "title": "Demoni",
+    "director": "Lamberto Bava",
+    "watched": true,
+    "rating": 0
+  },
+  "354": {
+    "title": "The last winter",
+    "director": "Larry Fessenden",
+    "watched": true,
+    "rating": 0
+  },
+  "355": {
+    "title": "Dogville",
+    "director": "Lars von Trier",
+    "watched": true,
+    "rating": 0
+  },
+  "356": {
+    "title": "Dancer in the dark",
+    "director": "Lars von Trier",
+    "watched": true,
+    "rating": 0
+  },
+  "357": {
+    "title": "Underworld",
+    "director": "Len Wiseman",
+    "watched": true,
+    "rating": 0
+  },
+  "358": {
+    "title": "Frank",
+    "director": "Lenny Abrahamson",
+    "watched": true,
+    "rating": 0
+  },
+  "359": {
+    "title": "L'occhio del gatto",
+    "director": "Lewis Teague",
+    "watched": true,
+    "rating": 0
+  },
+  "360": {
+    "title": "Leon",
+    "director": "Luc Besson",
+    "watched": true,
+    "rating": 0
+  },
+  "361": {
+    "title": "La caduta degli Dei",
+    "director": "Luchino Visconti",
+    "watched": true,
+    "rating": 0
+  },
+  "362": {
+    "title": "Black cat",
+    "director": "Lucio Fulci",
+    "watched": true,
+    "rating": 0
+  },
+  "363": {
+    "title": "L'aldilà",
+    "director": "Lucio Fulci",
+    "watched": true,
+    "rating": 0
+  },
+  "364": {
+    "title": "Zombi 2",
+    "director": "Lucio Fulci",
+    "watched": true,
+    "rating": 0
+  },
+  "365": {
+    "title": "Umbreakable",
+    "director": "M. Night Shyamalan",
+    "watched": true,
+    "rating": 0
+  },
+  "366": {
+    "title": "5cm al secondo",
+    "director": "Makoto Shinkai",
+    "watched": true,
+    "rating": 0
+  },
+  "367": {
+    "title": "Il giardino delle parole",
+    "director": "Makoto Shinkai",
+    "watched": true,
+    "rating": 0
+  },
+  "368": {
+    "title": "Your name",
+    "director": "Makoto Shinkai",
+    "watched": true,
+    "rating": 0
+  },
+  "369": {
+    "title": "The boy and the beast",
+    "director": "Mamoru Hosoda",
+    "watched": true,
+    "rating": 0
+  },
+  "370": {
+    "title": "Wolf children",
+    "director": "Mamoru Hosoda",
+    "watched": true,
+    "rating": 0
+  },
+  "371": {
+    "title": "Ghost in the shell",
+    "director": "Mamoru Oshii",
+    "watched": true,
+    "rating": 0
+  },
+  "372": {
+    "title": "Ghost in the shell 2 Innocence",
+    "director": "Mamoru Oshii",
+    "watched": true,
+    "rating": 0
+  },
+  "373": {
+    "title": "La città perduta",
+    "director": "Marc Caro - Jean-Pierre Jeunet",
+    "watched": true,
+    "rating": 0
+  },
+  "374": {
+    "title": "Quantum of solace",
+    "director": "Marc Forster",
+    "watched": true,
+    "rating": 0
+  },
+  "375": {
+    "title": "La donna scimmia",
+    "director": "Marco Ferreri",
+    "watched": true,
+    "rating": 0
+  },
+  "376": {
+    "title": "I tre volti della paura",
+    "director": "Mario Bava",
+    "watched": true,
+    "rating": 0
+  },
+  "377": {
+    "title": "La maschera del demonio",
+    "director": "Mario Bava",
+    "watched": true,
+    "rating": 0
+  },
+  "378": {
+    "title": "Non lasciarmi",
+    "director": "Mark Romanek",
+    "watched": true,
+    "rating": 0
+  },
+  "379": {
+    "title": "One hour photo",
+    "director": "Mark Romanek",
+    "watched": true,
+    "rating": 0
+  },
+  "380": {
+    "title": "Casino royale",
+    "director": "Martin Campbell",
+    "watched": true,
+    "rating": 0
+  },
+  "381": {
+    "title": "Cape fear",
+    "director": "Martin Scorsese",
+    "watched": true,
+    "rating": 0
+  },
+  "382": {
+    "title": "Casinò",
+    "director": "Martin Scorsese",
+    "watched": true,
+    "rating": 0
+  },
+  "383": {
+    "title": "Gangs of new york",
+    "director": "Martin Scorsese",
+    "watched": true,
+    "rating": 0
+  },
+  "384": {
+    "title": "Killers of the flower moon",
+    "director": "Martin Scorsese",
+    "watched": true,
+    "rating": 0
+  },
+  "385": {
+    "title": "L'età dell'innocenza",
+    "director": "Martin Scorsese",
+    "watched": true,
+    "rating": 0
+  },
+  "386": {
+    "title": "Quei bravi ragazzi",
+    "director": "Martin Scorsese",
+    "watched": true,
+    "rating": 0
+  },
+  "387": {
+    "title": "Shutter island",
+    "director": "Martin Scorsese",
+    "watched": true,
+    "rating": 0
+  },
+  "388": {
+    "title": "Taxi driver",
+    "director": "Martin Scorsese",
+    "watched": true,
+    "rating": 0
+  },
+  "389": {
+    "title": "The aviator",
+    "director": "Martin Scorsese",
+    "watched": true,
+    "rating": 0
+  },
+  "390": {
+    "title": "The departed",
+    "director": "Martin Scorsese",
+    "watched": true,
+    "rating": 0
+  },
+  "391": {
+    "title": "The irishman",
+    "director": "Martin Scorsese",
+    "watched": true,
+    "rating": 0
+  },
+  "392": {
+    "title": "Kwaidan",
+    "director": "Masaaki Kobayashi",
+    "watched": true,
+    "rating": 0
+  },
+  "393": {
+    "title": "Il postino",
+    "director": "Massimo Troisi e Michael Radford",
+    "watched": true,
+    "rating": 0
+  },
+  "394": {
+    "title": "L'odio",
+    "director": "Mathieu Kassovitz",
+    "watched": true,
+    "rating": 0
+  },
+  "395": {
+    "title": "Apes revolution",
+    "director": "Matt Reeves",
+    "watched": true,
+    "rating": 0
+  },
+  "396": {
+    "title": "Dogman",
+    "director": "Matteo Garrone",
+    "watched": true,
+    "rating": 0
+  },
+  "397": {
+    "title": "Il racconto dei racconti",
+    "director": "Matteo Garrone",
+    "watched": true,
+    "rating": 0
+  },
+  "398": {
+    "title": "Io capitano",
+    "director": "Matteo Garrone",
+    "watched": true,
+    "rating": 0
+  },
+  "399": {
+    "title": "Frankenstein junior",
+    "director": "Mel Brooks",
+    "watched": true,
+    "rating": 0
+  },
+  "400": {
+    "title": "Queen & Slim",
+    "director": "Melina Matsoukas",
+    "watched": true,
+    "rating": 0
+  },
+  "401": {
+    "title": "Il cacciatore",
+    "director": "Michael Cimino",
+    "watched": true,
+    "rating": 0
+  },
+  "402": {
+    "title": "Manhunter",
+    "director": "Michael Mann",
+    "watched": true,
+    "rating": 0
+  },
+  "403": {
+    "title": "Heat La sfida",
+    "director": "Michael Mann",
+    "watched": true,
+    "rating": 0
+  },
+  "404": {
+    "title": "Collateral",
+    "director": "Michael Mann",
+    "watched": true,
+    "rating": 0
+  },
+  "405": {
+    "title": "Fahrenheit 9/11",
+    "director": "Michael Moore",
+    "watched": true,
+    "rating": 0
+  },
+  "406": {
+    "title": "Eternal sunshine of the spotless mind",
+    "director": "Michel Gondry",
+    "watched": true,
+    "rating": 0
+  },
+  "407": {
+    "title": "La notte",
+    "director": "Michelangelo Antonioni",
+    "watched": true,
+    "rating": 0
+  },
+  "408": {
+    "title": "Arrivederci amore ciao",
+    "director": "Michele Soavi",
+    "watched": true,
+    "rating": 0
+  },
+  "409": {
+    "title": "Deliria",
+    "director": "Michele Soavi",
+    "watched": true,
+    "rating": 0
+  },
+  "410": {
+    "title": "Dellamorte dellamore",
+    "director": "Michele Soavi",
+    "watched": true,
+    "rating": 0
+  },
+  "411": {
+    "title": "La Chiesa",
+    "director": "Michele Soavi",
+    "watched": true,
+    "rating": 0
+  },
+  "412": {
+    "title": "Extinction",
+    "director": "Miguel Ángel Vivas",
+    "watched": true,
+    "rating": 0
+  },
+  "413": {
+    "title": "Somnia",
+    "director": "Mike Flanagan",
+    "watched": true,
+    "rating": 0
+  },
+  "414": {
+    "title": "Peterloo",
+    "director": "Mike Leigh",
+    "watched": true,
+    "rating": 0
+  },
+  "415": {
+    "title": "C'mon C'mon",
+    "director": "Mike Mills",
+    "watched": true,
+    "rating": 0
+  },
+  "416": {
+    "title": "Harry Potter e il calice di fuoco",
+    "director": "Mike Newell",
+    "watched": true,
+    "rating": 0
+  },
+  "417": {
+    "title": "House",
+    "director": "Nobuhiko Obayashi",
+    "watched": true,
+    "rating": 0
+  },
+  "418": {
+    "title": "Merry Christmas Mr Lawrence",
+    "director": "Nagisa Ōshima",
+    "watched": true,
+    "rating": 0
+  },
+  "419": {
+    "title": "Byzantium",
+    "director": "Neil Jordan",
+    "watched": true,
+    "rating": 0
+  },
+  "420": {
+    "title": "In compagnia dei lupi",
+    "director": "Neil Jordan",
+    "watched": true,
+    "rating": 0
+  },
+  "421": {
+    "title": "In dreams",
+    "director": "Neil Jordan",
+    "watched": true,
+    "rating": 0
+  },
+  "422": {
+    "title": "Doomsday",
+    "director": "Neil Marshall",
+    "watched": true,
+    "rating": 0
+  },
+  "423": {
+    "title": "The descent",
+    "director": "Neil Marshall",
+    "watched": true,
+    "rating": 0
+  },
+  "424": {
+    "title": "District 9",
+    "director": "Neill Blomkamp",
+    "watched": true,
+    "rating": 0
+  },
+  "425": {
+    "title": "Elysium",
+    "director": "Neill Blomkamp",
+    "watched": true,
+    "rating": 0
+  },
+  "426": {
+    "title": "Humandroid",
+    "director": "Neill Blomkamp",
+    "watched": true,
+    "rating": 0
+  },
+  "427": {
+    "title": "Valhalla rising",
+    "director": "Nicolas Winding Refn",
+    "watched": true,
+    "rating": 0
+  },
+  "428": {
+    "title": "Bronson",
+    "director": "Nicolas Winding Refn",
+    "watched": true,
+    "rating": 0
+  },
+  "429": {
+    "title": "Drive",
+    "director": "Nicolas Winding Refn",
+    "watched": true,
+    "rating": 0
+  },
+  "430": {
+    "title": "The neon demon",
+    "director": "Nicolas Winding Refn",
+    "watched": true,
+    "rating": 0
+  },
+  "431": {
+    "title": "Ringu 0",
+    "director": "Norio Tsuruta",
+    "watched": true,
+    "rating": 0
+  },
+  "432": {
+    "title": "Kristy",
+    "director": "Olly Blackburn",
+    "watched": true,
+    "rating": 0
+  },
+  "433": {
+    "title": "Il processo",
+    "director": "Orson Welles",
+    "watched": true,
+    "rating": 0
+  },
+  "434": {
+    "title": "Quarto potere",
+    "director": "Orson Welles",
+    "watched": true,
+    "rating": 0
+  },
+  "435": {
+    "title": "February",
+    "director": "Oz Perkins",
+    "watched": true,
+    "rating": 0
+  },
+  "436": {
+    "title": "Gretel e Hansel",
+    "director": "Oz Perkins",
+    "watched": true,
+    "rating": 0
+  },
+  "437": {
+    "title": "This must be the place",
+    "director": "Paolo Sorrentino",
+    "watched": true,
+    "rating": 0
+  },
+  "438": {
+    "title": "La casa delle bambole",
+    "director": "Pascal Laugier",
+    "watched": true,
+    "rating": 0
+  },
+  "439": {
+    "title": "Mishima: A life in four chapters",
+    "director": "Paul Schrader",
+    "watched": true,
+    "rating": 0
+  },
+  "440": {
+    "title": "Il filo nascosto",
+    "director": "Paul Thomas Anderson",
+    "watched": true,
+    "rating": 0
+  },
+  "441": {
+    "title": "Licorice Pizza",
+    "director": "Paul Thomas Anderson",
+    "watched": true,
+    "rating": 0
+  },
+  "442": {
+    "title": "Cold war",
+    "director": "Paweł Pawlikowski",
+    "watched": true,
+    "rating": 0
+  },
+  "443": {
+    "title": "Donne sull'orlo di una crisi di nervi",
+    "director": "Pedro Almodóvar",
+    "watched": true,
+    "rating": 0
+  },
+  "444": {
+    "title": "Full Monty",
+    "director": "Peter Cattaneo",
+    "watched": true,
+    "rating": 0
+  },
+  "445": {
+    "title": "Eisenstein in Messico",
+    "director": "Peter Greenaway",
+    "watched": true,
+    "rating": 0
+  },
+  "446": {
+    "title": "Goltius and the Pelican company",
+    "director": "Peter Greenaway",
+    "watched": true,
+    "rating": 0
+  },
+  "447": {
+    "title": "Nightwatching",
+    "director": "Peter Greenaway",
+    "watched": true,
+    "rating": 0
+  },
+  "448": {
+    "title": "Amabili resti",
+    "director": "Peter Jackson",
+    "watched": true,
+    "rating": 0
+  },
+  "449": {
+    "title": "Bad taste",
+    "director": "Peter Jackson",
+    "watched": true,
+    "rating": 0
+  },
+  "450": {
+    "title": "Il signore degli anelli: il ritorno del re",
+    "director": "Peter Jackson",
+    "watched": true,
+    "rating": 0
+  },
+  "451": {
+    "title": "Il signore degli anelli: la compagnia dell'anello",
+    "director": "Peter Jackson",
+    "watched": true,
+    "rating": 0
+  },
+  "452": {
+    "title": "Il signore degli anelli: le due torri",
+    "director": "Peter Jackson",
+    "watched": true,
+    "rating": 0
+  },
+  "453": {
+    "title": "King Kong",
+    "director": "Peter Jackson",
+    "watched": true,
+    "rating": 0
+  },
+  "454": {
+    "title": "Lo hobbit la battaglia delle cinque armate",
+    "director": "Peter Jackson",
+    "watched": true,
+    "rating": 0
+  },
+  "455": {
+    "title": "Lo hobbit la desolazione di Smaug",
+    "director": "Peter Jackson",
+    "watched": true,
+    "rating": 0
+  },
+  "456": {
+    "title": "Lo hobbit un viaggio inaspettato",
+    "director": "Peter Jackson",
+    "watched": true,
+    "rating": 0
+  },
+  "457": {
+    "title": "Picnic ad Hanging Rock",
+    "director": "Peter Weir",
+    "watched": true,
+    "rating": 0
+  },
+  "458": {
+    "title": "L'attimo fuggente",
+    "director": "Peter Weir",
+    "watched": true,
+    "rating": 0
+  },
+  "459": {
+    "title": "Master and commander",
+    "director": "Peter Weir",
+    "watched": true,
+    "rating": 0
+  },
+  "460": {
+    "title": "The Truman show",
+    "director": "Peter Weir",
+    "watched": true,
+    "rating": 0
+  },
+  "461": {
+    "title": "Terrore dallo spazio profondo",
+    "director": "Philip Kaufman",
+    "watched": true,
+    "rating": 0
+  },
+  "462": {
+    "title": "Medea",
+    "director": "Pier Paolo Pasolini",
+    "watched": true,
+    "rating": 0
+  },
+  "463": {
+    "title": "Ga-Ga: Glory to the Heroes",
+    "director": "Piotr Szulkin",
+    "watched": true,
+    "rating": 0
+  },
+  "464": {
+    "title": "O-Bi, O-Ba: the end of civilization",
+    "director": "Piotr Szulkin",
+    "watched": true,
+    "rating": 0
+  },
+  "465": {
+    "title": "War of the worlds: next century",
+    "director": "Piotr Szulkin",
+    "watched": true,
+    "rating": 0
+  },
+  "466": {
+    "title": "L'arcano incantatore",
+    "director": "Pupi Avati",
+    "watched": true,
+    "rating": 0
+  },
+  "467": {
+    "title": "Bastardi senza gloria",
+    "director": "Quentin Tarantino",
+    "watched": true,
+    "rating": 0
+  },
+  "468": {
+    "title": "Django unchained",
+    "director": "Quentin Tarantino",
+    "watched": true,
+    "rating": 0
+  },
+  "469": {
+    "title": "Kill Bill vol 1",
+    "director": "Quentin Tarantino",
+    "watched": true,
+    "rating": 0
+  },
+  "470": {
+    "title": "Kill Bill vol 2",
+    "director": "Quentin Tarantino",
+    "watched": true,
+    "rating": 0
+  },
+  "471": {
+    "title": "Le iene",
+    "director": "Quentin Tarantino",
+    "watched": true,
+    "rating": 0
+  },
+  "472": {
+    "title": "Pulp fiction",
+    "director": "Quentin Tarantino",
+    "watched": true,
+    "rating": 0
+  },
+  "473": {
+    "title": "The hateful eight",
+    "director": "Quentin Tarantino",
+    "watched": true,
+    "rating": 0
+  },
+  "474": {
+    "title": "Nightmare 6 la fine",
+    "director": "Rachel Talalay",
+    "watched": true,
+    "rating": 0
+  },
+  "475": {
+    "title": "Il pianeta Selvaggio",
+    "director": "René Laloux",
+    "watched": true,
+    "rating": 0
+  },
+  "476": {
+    "title": "Nightmare 4 il non risveglio",
+    "director": "Renny Harlin",
+    "watched": true,
+    "rating": 0
+  },
+  "477": {
+    "title": "Winnie the Pooh Sangue e Miele 2",
+    "director": "Rhys Frake-Waterfield",
+    "watched": true,
+    "rating": 0
+  },
+  "478": {
+    "title": "Ladyhawke",
+    "director": "Richard Donner",
+    "watched": true,
+    "rating": 0
+  },
+  "479": {
+    "title": "Star Wars the return of the jedi (despecialized)",
+    "director": "Richard Marquand",
+    "watched": true,
+    "rating": 0
+  },
+  "480": {
+    "title": "I duellanti",
+    "director": "Ridley Scott",
+    "watched": true,
+    "rating": 0
+  },
+  "481": {
+    "title": "Alien covenant",
+    "director": "Ridley Scott",
+    "watched": true,
+    "rating": 0
+  },
+  "482": {
+    "title": "Blade runner",
+    "director": "Ridley Scott",
+    "watched": true,
+    "rating": 0
+  },
+  "483": {
+    "title": "Il gladiatore",
+    "director": "Ridley Scott",
+    "watched": true,
+    "rating": 0
+  },
+  "484": {
+    "title": "Prometheus",
+    "director": "Ridley Scott",
+    "watched": true,
+    "rating": 0
+  },
+  "485": {
+    "title": "The martian",
+    "director": "Ridley Scott",
+    "watched": true,
+    "rating": 0
+  },
+  "486": {
+    "title": "Black Hawk down",
+    "director": "Ridley Scott",
+    "watched": true,
+    "rating": 0
+  },
+  "487": {
+    "title": "Metropolis",
+    "director": "Rintaro",
+    "watched": true,
+    "rating": 0
+  },
+  "488": {
+    "title": "La storia fantastica",
+    "director": "Rob Reiner",
+    "watched": true,
+    "rating": 0
+  },
+  "489": {
+    "title": "Stand by me",
+    "director": "Rob Reiner",
+    "watched": true,
+    "rating": 0
+  },
+  "490": {
+    "title": "31",
+    "director": "Rob Zombie",
+    "watched": true,
+    "rating": 0
+  },
+  "491": {
+    "title": "Le streghe di Salem",
+    "director": "Rob Zombie",
+    "watched": true,
+    "rating": 0
+  },
+  "492": {
+    "title": "Gosford Park",
+    "director": "Robert Altman",
+    "watched": true,
+    "rating": 0
+  },
+  "493": {
+    "title": "The Lighthouse",
+    "director": "Robert Eggers",
+    "watched": true,
+    "rating": 0
+  },
+  "494": {
+    "title": "The Northman",
+    "director": "Robert Eggers",
+    "watched": true,
+    "rating": 0
+  },
+  "495": {
+    "title": "The Witch",
+    "director": "Robert Eggers",
+    "watched": true,
+    "rating": 0
+  },
+  "496": {
+    "title": "Dal tramonto all'alba",
+    "director": "Robert Rodriguez",
+    "watched": true,
+    "rating": 0
+  },
+  "497": {
+    "title": "Planet terror",
+    "director": "Robert Rodriguez",
+    "watched": true,
+    "rating": 0
+  },
+  "498": {
+    "title": "Il gabinetto del dottor Caligari",
+    "director": "Robert Wiene",
+    "watched": true,
+    "rating": 0
+  },
+  "499": {
+    "title": "Allied",
+    "director": "Robert Zemeckis",
+    "watched": true,
+    "rating": 0
+  },
+  "500": {
+    "title": "Chi ha incastrato roger rabbit?",
+    "director": "Robert Zemeckis",
+    "watched": true,
+    "rating": 0
+  },
+  "501": {
+    "title": "Johnny Stecchino",
+    "director": "Roberto Benigni",
+    "watched": true,
+    "rating": 0
+  },
+  "502": {
+    "title": "La maschera della morte rossa",
+    "director": "Roger Corman",
+    "watched": true,
+    "rating": 0
+  },
+  "503": {
+    "title": "Urla del silenzio",
+    "director": "Roland Joffé",
+    "watched": true,
+    "rating": 0
+  },
+  "504": {
+    "title": "Macbeth",
+    "director": "Roman Polanski",
+    "watched": true,
+    "rating": 0
+  },
+  "505": {
+    "title": "Chinatown",
+    "director": "Roman Polanski",
+    "watched": true,
+    "rating": 0
+  },
+  "506": {
+    "title": "Rosemary's baby",
+    "director": "Roman Polanski",
+    "watched": true,
+    "rating": 0
+  },
+  "507": {
+    "title": "Frost/Nixon",
+    "director": "Ron Howard",
+    "watched": true,
+    "rating": 0
+  },
+  "508": {
+    "title": "Cannibal holocaust",
+    "director": "Ruggero Deodato",
+    "watched": true,
+    "rating": 0
+  },
+  "509": {
+    "title": "Highlander",
+    "director": "Russell Mulcahy",
+    "watched": true,
+    "rating": 0
+  },
+  "510": {
+    "title": "Skyfall",
+    "director": "Sam Mendes",
+    "watched": true,
+    "rating": 0
+  },
+  "511": {
+    "title": "Spectre",
+    "director": "Sam Mendes",
+    "watched": true,
+    "rating": 0
+  },
+  "512": {
+    "title": "Pat Garrett e Billy the Kid",
+    "director": "Sam Peckinpah",
+    "watched": true,
+    "rating": 0
+  },
+  "513": {
+    "title": "Darkman",
+    "director": "Sam Raimi",
+    "watched": true,
+    "rating": 0
+  },
+  "514": {
+    "title": "Drag me to hell",
+    "director": "Sam Raimi",
+    "watched": true,
+    "rating": 0
+  },
+  "515": {
+    "title": "Evil dead",
+    "director": "Sam Raimi",
+    "watched": true,
+    "rating": 0
+  },
+  "516": {
+    "title": "Evil dead 2",
+    "director": "Sam Raimi",
+    "watched": true,
+    "rating": 0
+  },
+  "517": {
+    "title": "L'armata delle tenebre",
+    "director": "Sam Raimi",
+    "watched": true,
+    "rating": 0
+  },
+  "518": {
+    "title": "Soldi sporchi",
+    "director": "Sam Raimi",
+    "watched": true,
+    "rating": 0
+  },
+  "519": {
+    "title": "Spiderman",
+    "director": "Sam Raimi",
+    "watched": true,
+    "rating": 0
+  },
+  "520": {
+    "title": "Spiderman 2",
+    "director": "Sam Raimi",
+    "watched": true,
+    "rating": 0
+  },
+  "521": {
+    "title": "Spiderman 3",
+    "director": "Sam Raimi",
+    "watched": true,
+    "rating": 0
+  },
+  "522": {
+    "title": "Paprika",
+    "director": "Satoshi Kon",
+    "watched": true,
+    "rating": 0
+  },
+  "523": {
+    "title": "Perfect Blue",
+    "director": "Satoshi Kon",
+    "watched": true,
+    "rating": 0
+  },
+  "524": {
+    "title": "Tokyo Godfathers",
+    "director": "Satoshi Kon",
+    "watched": true,
+    "rating": 0
+  },
+  "525": {
+    "title": "Sinister",
+    "director": "Scott Derrickson",
+    "watched": true,
+    "rating": 0
+  },
+  "526": {
+    "title": "Elogio della lotta",
+    "director": "Seijun Suzuki",
+    "watched": true,
+    "rating": 0
+  },
+  "527": {
+    "title": "La farfalla sul mirino",
+    "director": "Seijun Suzuki",
+    "watched": true,
+    "rating": 0
+  },
+  "528": {
+    "title": "La giovinezza di una belva umana",
+    "director": "Seijun Suzuki",
+    "watched": true,
+    "rating": 0
+  },
+  "529": {
+    "title": "The woman sharper",
+    "director": "Seijun Suzuki",
+    "watched": true,
+    "rating": 0
+  },
+  "530": {
+    "title": "Tokyo drifter",
+    "director": "Seijun Suzuki",
+    "watched": true,
+    "rating": 0
+  },
+  "531": {
+    "title": "Ufficio investigativo 23: crepate bastardi!",
+    "director": "Seijun Suzuki",
+    "watched": true,
+    "rating": 0
+  },
+  "532": {
+    "title": "C'era una volta in america",
+    "director": "Sergio Leone",
+    "watched": true,
+    "rating": 0
+  },
+  "533": {
+    "title": "Il buono il brutto e il cattivo",
+    "director": "Sergio Leone",
+    "watched": true,
+    "rating": 0
+  },
+  "534": {
+    "title": "Per qualche dollaro in più",
+    "director": "Sergio Leone",
+    "watched": true,
+    "rating": 0
+  },
+  "535": {
+    "title": "Per un pugno di dollari",
+    "director": "Sergio Leone",
+    "watched": true,
+    "rating": 0
+  },
+  "536": {
+    "title": "The nice guys",
+    "director": "Shane Black",
+    "watched": true,
+    "rating": 0
+  },
+  "537": {
+    "title": "Zombie contro zombie",
+    "director": "Shinichiro Ueda",
+    "watched": true,
+    "rating": 0
+  },
+  "538": {
+    "title": "Capitan harlock",
+    "director": "Shinji Aramaki",
+    "watched": true,
+    "rating": 0
+  },
+  "539": {
+    "title": "Typhoon Club",
+    "director": "Shinji Sōmai",
+    "watched": true,
+    "rating": 0
+  },
+  "540": {
+    "title": "Tetsuo the body hammer",
+    "director": "Shinya Tsukamoto",
+    "watched": true,
+    "rating": 0
+  },
+  "541": {
+    "title": "Tetsuo The iron man",
+    "director": "Shinya Tsukamoto",
+    "watched": true,
+    "rating": 0
+  },
+  "542": {
+    "title": "Liquid Sky",
+    "director": "Slava Tsukerman",
+    "watched": true,
+    "rating": 0
+  },
+  "543": {
+    "title": "Lost in translation",
+    "director": "Sofia Coppola",
+    "watched": true,
+    "rating": 0
+  },
+  "544": {
+    "title": "Blackkklansman",
+    "director": "Spike Lee",
+    "watched": true,
+    "rating": 0
+  },
+  "545": {
+    "title": "La 25esima ora",
+    "director": "Spike Lee",
+    "watched": true,
+    "rating": 0
+  },
+  "546": {
+    "title": "Barry Lyndon",
+    "director": "Stanley Kubrick",
+    "watched": true,
+    "rating": 0
+  },
+  "547": {
+    "title": "2001: Odissea nello spazio",
+    "director": "Stanley Kubrick",
+    "watched": true,
+    "rating": 0
+  },
+  "548": {
+    "title": "Il dottor Stranamore",
+    "director": "Stanley Kubrick",
+    "watched": true,
+    "rating": 0
+  },
+  "549": {
+    "title": "Shining",
+    "director": "Stanley Kubrick",
+    "watched": true,
+    "rating": 0
+  },
+  "550": {
+    "title": "Eyes Wide Shut",
+    "director": "Stanley Kubrick",
+    "watched": true,
+    "rating": 0
+  },
+  "551": {
+    "title": "Suburra",
+    "director": "Stefano Sollima",
+    "watched": true,
+    "rating": 0
+  },
+  "552": {
+    "title": "Nightmare 5 il mito",
+    "director": "Stephen Hopkins",
+    "watched": true,
+    "rating": 0
+  },
+  "553": {
+    "title": "Unsane",
+    "director": "Steven Soderbergh",
+    "watched": true,
+    "rating": 0
+  },
+  "554": {
+    "title": "Ai intelligenza artificiale",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "555": {
+    "title": "Incontri ravvicinati del terzo tipo",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "556": {
+    "title": "Indiana Jones e i predatori dell'arca perduta",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "557": {
+    "title": "Indiana Jones e il regno del teschio di cristallo",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "558": {
+    "title": "Indiana Jones e il tempio maledetto",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "559": {
+    "title": "Indiana Jones e l'ultima crociata",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "560": {
+    "title": "Le avventure di Tintin e il segreto dell'unicorno",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "561": {
+    "title": "Lincoln",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "562": {
+    "title": "Lo squalo",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "563": {
+    "title": "Munich",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "564": {
+    "title": "Prova a prendermi",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "565": {
+    "title": "Ready player one",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "566": {
+    "title": "The Fabelmans",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "567": {
+    "title": "Duel",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "568": {
+    "title": "Shindler's list",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "569": {
+    "title": "The terminal",
+    "director": "Steven Spielberg",
+    "watched": true,
+    "rating": 0
+  },
+  "570": {
+    "title": "Dagon",
+    "director": "Stuart Gordon",
+    "watched": true,
+    "rating": 0
+  },
+  "571": {
+    "title": "Re animator",
+    "director": "Stuart Gordon",
+    "watched": true,
+    "rating": 0
+  },
+  "572": {
+    "title": "Re animator 2",
+    "director": "Stuart Gordon e Brian Yuzna",
+    "watched": true,
+    "rating": 0
+  },
+  "573": {
+    "title": "A scene at the sea",
+    "director": "Takeshi Kitano",
+    "watched": true,
+    "rating": 0
+  },
+  "574": {
+    "title": "Boiling Point",
+    "director": "Takeshi Kitano",
+    "watched": true,
+    "rating": 0
+  },
+  "575": {
+    "title": "Brother",
+    "director": "Takeshi Kitano",
+    "watched": true,
+    "rating": 0
+  },
+  "576": {
+    "title": "Dolls",
+    "director": "Takeshi Kitano",
+    "watched": true,
+    "rating": 0
+  },
+  "577": {
+    "title": "Hana bi",
+    "director": "Takeshi Kitano",
+    "watched": true,
+    "rating": 0
+  },
+  "578": {
+    "title": "Kids return",
+    "director": "Takeshi Kitano",
+    "watched": true,
+    "rating": 0
+  },
+  "579": {
+    "title": "Kikujiro",
+    "director": "Takeshi Kitano",
+    "watched": true,
+    "rating": 0
+  },
+  "580": {
+    "title": "Sonatine",
+    "director": "Takeshi Kitano",
+    "watched": true,
+    "rating": 0
+  },
+  "581": {
+    "title": "Violent Cop",
+    "director": "Takeshi Kitano",
+    "watched": true,
+    "rating": 0
+  },
+  "582": {
+    "title": "Dracula il vampiro",
+    "director": "Terence Fisher",
+    "watched": true,
+    "rating": 0
+  },
+  "583": {
+    "title": "Knight of cups",
+    "director": "Terrence Malick",
+    "watched": true,
+    "rating": 0
+  },
+  "584": {
+    "title": "La sottile linea rossa",
+    "director": "Terrence Malick",
+    "watched": true,
+    "rating": 0
+  },
+  "585": {
+    "title": "The tree of life",
+    "director": "Terrence Malick",
+    "watched": true,
+    "rating": 0
+  },
+  "586": {
+    "title": "Voyage of time",
+    "director": "Terrence Malick",
+    "watched": true,
+    "rating": 0
+  },
+  "587": {
+    "title": "Tideland il mondo capovolto",
+    "director": "Terry Gilliam",
+    "watched": true,
+    "rating": 0
+  },
+  "588": {
+    "title": "L'uomo che uccise Don Chisciotte",
+    "director": "Terry Gilliam",
+    "watched": true,
+    "rating": 0
+  },
+  "589": {
+    "title": "Brazil",
+    "director": "Terry Gilliam",
+    "watched": true,
+    "rating": 0
+  },
+  "590": {
+    "title": "I banditi del tempo",
+    "director": "Terry Gilliam",
+    "watched": true,
+    "rating": 0
+  },
+  "591": {
+    "title": "Le avventure del barone di Munchausen",
+    "director": "Terry Gilliam",
+    "watched": true,
+    "rating": 0
+  },
+  "592": {
+    "title": "Parnassus",
+    "director": "Terry Gilliam",
+    "watched": true,
+    "rating": 0
+  },
+  "593": {
+    "title": "The zero theorem",
+    "director": "Terry Gilliam",
+    "watched": true,
+    "rating": 0
+  },
+  "594": {
+    "title": "I fratelli Grimm e l'incantevole strega",
+    "director": "Terry Gilliam",
+    "watched": true,
+    "rating": 0
+  },
+  "595": {
+    "title": "L'esercito delle 12 scimmie",
+    "director": "Terry Gilliam",
+    "watched": true,
+    "rating": 0
+  },
+  "596": {
+    "title": "La leggenda del re pescatore",
+    "director": "Terry Gilliam",
+    "watched": true,
+    "rating": 0
+  },
+  "597": {
+    "title": "Paura e delirio a Las vegas",
+    "director": "Terry Gilliam",
+    "watched": true,
+    "rating": 0
+  },
+  "598": {
+    "title": "Monty Python and the holy grail",
+    "director": "Terry Gilliam e Terry Jones",
+    "watched": true,
+    "rating": 0
+  },
+  "599": {
+    "title": "And now for something completely different",
+    "director": "Terry Gilliam e Ian MacNaughton",
+    "watched": true,
+    "rating": 0
+  },
+  "600": {
+    "title": "Monty Python's life of Brian",
+    "director": "Terry Jones",
+    "watched": true,
+    "rating": 0
+  },
+  "601": {
+    "title": "Monty Python's the meaning of life",
+    "director": "Terry Jones",
+    "watched": true,
+    "rating": 0
+  },
+  "602": {
+    "title": "Big fish",
+    "director": "Tim Burton",
+    "watched": true,
+    "rating": 0
+  },
+  "603": {
+    "title": "Il mistero di Sleepy Hollow",
+    "director": "Tim Burton",
+    "watched": true,
+    "rating": 0
+  },
+  "604": {
+    "title": "Beetlejuice",
+    "director": "Tim Burton",
+    "watched": true,
+    "rating": 0
+  },
+  "605": {
+    "title": "Non aprite quella porta",
+    "director": "Tobe Hooper",
+    "watched": true,
+    "rating": 0
+  },
+  "606": {
+    "title": "Poltergeist",
+    "director": "Tobe Hooper",
+    "watched": true,
+    "rating": 0
+  },
+  "607": {
+    "title": "Dracula",
+    "director": "Tod Browning",
+    "watched": true,
+    "rating": 0
+  },
+  "608": {
+    "title": "Animali notturni",
+    "director": "Tom Ford",
+    "watched": true,
+    "rating": 0
+  },
+  "609": {
+    "title": "Cloud Atlas",
+    "director": "Tom Tykwer con Lily e Lana Wachowski",
+    "watched": true,
+    "rating": 0
+  },
+  "610": {
+    "title": "Lasciami entrare",
+    "director": "Tomas Alfredson",
+    "watched": true,
+    "rating": 0
+  },
+  "611": {
+    "title": "La talpa",
+    "director": "Tomas Alfredson",
+    "watched": true,
+    "rating": 0
+  },
+  "612": {
+    "title": "Il sospetto",
+    "director": "Tomas Vinterberg",
+    "watched": true,
+    "rating": 0
+  },
+  "613": {
+    "title": "Song of the Sea",
+    "director": "Tomm Moore",
+    "watched": true,
+    "rating": 0
+  },
+  "614": {
+    "title": "The secret of Kells",
+    "director": "Tomm Moore",
+    "watched": true,
+    "rating": 0
+  },
+  "615": {
+    "title": "Wolfwalkers",
+    "director": "Tomm Moore",
+    "watched": true,
+    "rating": 0
+  },
+  "616": {
+    "title": "Si sente il mare",
+    "director": "Tomomi Mochizuki",
+    "watched": true,
+    "rating": 0
+  },
+  "617": {
+    "title": "The hunger",
+    "director": "Tony Scott",
+    "watched": true,
+    "rating": 0
+  },
+  "618": {
+    "title": "Fantasia 2000",
+    "director": "Vari",
+    "watched": true,
+    "rating": 0
+  },
+  "619": {
+    "title": "I girasoli",
+    "director": "Vittorio De Sica",
+    "watched": true,
+    "rating": 0
+  },
+  "620": {
+    "title": "Nosferatu",
+    "director": "Werner Herzog",
+    "watched": true,
+    "rating": 0
+  },
+  "621": {
+    "title": "Asteroid city",
+    "director": "Wes Anderson",
+    "watched": true,
+    "rating": 0
+  },
+  "622": {
+    "title": "The aquatic life",
+    "director": "Wes Anderson",
+    "watched": true,
+    "rating": 0
+  },
+  "623": {
+    "title": "Nightmare dal profondo della notte",
+    "director": "Wes Craven",
+    "watched": true,
+    "rating": 0
+  },
+  "624": {
+    "title": "Nightmare nuovo incubo",
+    "director": "Wes Craven",
+    "watched": true,
+    "rating": 0
+  },
+  "625": {
+    "title": "L'esorcista",
+    "director": "William Friedkin",
+    "watched": true,
+    "rating": 0
+  },
+  "626": {
+    "title": "Il sale della terra",
+    "director": "Wim Wenders",
+    "watched": true,
+    "rating": 0
+  },
+  "627": {
+    "title": "Fino alla fine del mondo",
+    "director": "Wim Wenders",
+    "watched": true,
+    "rating": 0
+  },
+  "628": {
+    "title": "Paris, Texas",
+    "director": "Wim Wenders",
+    "watched": true,
+    "rating": 0
+  },
+  "629": {
+    "title": "La storia infinita",
+    "director": "Wolfgang Petersen",
+    "watched": true,
+    "rating": 0
+  },
+  "630": {
+    "title": "Io e Annie",
+    "director": "Woody Allen",
+    "watched": true,
+    "rating": 0
+  },
+  "631": {
+    "title": "La maledizione dello scorpione di giada",
+    "director": "Woody Allen",
+    "watched": true,
+    "rating": 0
+  },
+  "632": {
+    "title": "Buon giorno",
+    "director": "Yasujiro Ozu",
+    "watched": true,
+    "rating": 0
+  },
+  "633": {
+    "title": "Fiori d'equinozio",
+    "director": "Yasujiro Ozu",
+    "watched": true,
+    "rating": 0
+  },
+  "634": {
+    "title": "Il gusto del sake",
+    "director": "Yasujiro Ozu",
+    "watched": true,
+    "rating": 0
+  },
+  "635": {
+    "title": "Tarda primavera",
+    "director": "Yasujiro Ozu",
+    "watched": true,
+    "rating": 0
+  },
+  "636": {
+    "title": "Tardo autunno",
+    "director": "Yasujiro Ozu",
+    "watched": true,
+    "rating": 0
+  },
+  "637": {
+    "title": "Viaggio a Tokyo",
+    "director": "Yasujiro Ozu",
+    "watched": true,
+    "rating": 0
+  },
+  "638": {
+    "title": "Hero",
+    "director": "Yimou Zhang",
+    "watched": true,
+    "rating": 0
+  },
+  "639": {
+    "title": "The lobster",
+    "director": "Yorgos Lanthimos",
+    "watched": true,
+    "rating": 0
+  },
+  "640": {
+    "title": "One cut of the dead in Hollywood",
+    "director": "Yuya Nakaizumu",
+    "watched": true,
+    "rating": 0
+  }
+}
